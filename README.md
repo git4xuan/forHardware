@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###主体由两个部分组成：
 ####Web App
 
@@ -6,3 +7,10 @@
 
 ####Server Control
 定义和硬件的接口，负责信息的传递。
+=======
+###The project try to connect Device and Phones
+Start with two ~~~
+####WebApp
+
+
+>>>>>>> origin/master
